@@ -11,7 +11,7 @@ algorithms in Python.
 - **PREPROSSESSING**: Group_15_Preprocessing.ipynb
 
 **FOLDERS**:
-- **data**: stores given data for the project
+- **data**: stores given data for the project. Processed data and original
 - **predictions**: stores prediction outputs from Group_15_Project_1.ipynb. The following data files will be created by MAIN code...
     - Group_15_Perceptron_PredictedOutputs.csv
     - Group_15_Adaline_PredictedOutputs.csv
