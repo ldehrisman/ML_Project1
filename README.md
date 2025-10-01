@@ -7,7 +7,7 @@ This repository is for Project 1 for Machine Learning for Team 15.
 algorithms in Python.
 
 **CODE SCRIPT**:
-- **MAIN**: Group_15_Project_1.ipynb
+- **MAIN**: Group_15_Project_1.ipynb (merged all parts)
 - **PREPROSSESSING**: Group_15_Preprocessing.ipynb
 
 **FOLDERS**:
@@ -17,3 +17,4 @@ algorithms in Python.
     - Group_15_Adaline_PredictedOutputs.csv
     - Group_15_LogisticRegression_PredictedOutputs.csv
     - Group_15_SVM_PredictedOutputs.csv
+- misc: unmerged code
